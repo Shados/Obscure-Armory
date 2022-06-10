@@ -13,7 +13,6 @@
     "color": "gray",
     "ammo_type": ["550arlov"],
     "capacity": 10,
-    "reliability": 9,
     "reload_time": 110,
     "flags": ["MAG_BULKY"]
   },
@@ -31,7 +30,6 @@
     "color": "gray",
     "ammo_type": ["9mm"],
     "capacity": 12,
-    "reliability": 9,
     "reload_time": 100,
     "flags": ["MAG_COMPACT"]
   },
@@ -49,7 +47,6 @@
     "color": "gray",
     "ammo_type": ["20mm"],
     "capacity": 3,
-    "reliability": 8,
     "reload_time": 200,
     "flags": ["MAG_BULKY"]
   },
@@ -67,7 +64,6 @@
     "color": "gray",
     "ammo_type": ["shot"],
     "capacity": 10,
-    "reliability": 8,
     "reload_time": 300,
     "flags": ["MAG_BULKY"]
   },
@@ -85,7 +81,6 @@
     "color": "gray",
     "ammo_type": ["9mm"],
     "capacity": 100,
-    "reliability": 9,
     "reload_time": 200,
     "flags": ["MAG_COMPACT"]
   },
@@ -103,7 +98,6 @@
     "color": "gray",
     "ammo_type": ["9x39"],
     "capacity": 20,
-    "reliability": 9,
     "reload_time": 200,
     "flags": ["MAG_COMPACT"]
   },
@@ -121,7 +115,6 @@
     "color": "gray",
     "ammo_type": ["3006"],
     "capacity": 7,
-    "reliability": 9,
     "reload_time": 50,
     "flags": ["MAG_COMPACT"]
   }
