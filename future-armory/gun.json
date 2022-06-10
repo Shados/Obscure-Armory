@@ -46,7 +46,15 @@
     "loudness": 20,
     "built_in_mods": ["muzzle_brake", "rifle_scope"],
     "flags": ["NEVER_JAMS"],
-    "magazines": [["550arlov", ["v85mag"]]]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["v85mag"]
+      }
+    ]
   },
   {
     "id": "eliminator",
@@ -155,7 +163,15 @@
       ["muzzle", 1],
       ["stock", 1]
     ],
-    "magazines": [["9mm", ["xs3mag"]]]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["xs3mag"]
+      }
+    ]
   },
   {
     "id": "anzio20mm",
@@ -181,7 +197,15 @@
     "loudness": 25,
     "built_in_mods": ["rifle_scope", "muzzle_brake"],
     "flags": ["NEVER_JAMS"],
-    "magazines": [["20mm", ["anziomag"]]]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["anziomag"]
+      }
+    ]
   },
   {
     "id": "pancor_jack",
@@ -206,7 +230,15 @@
     "burst": 5,
     "loudness": 20,
     "flags": ["NEVER_JAMS"],
-    "magazines": [["shot", ["pancormag"]]]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["pancormag"]
+      }
+    ]
   },
   {
     "id": "armgun",
@@ -231,7 +263,15 @@
     "burst": 10,
     "loudness": 10,
     "flags": ["NEVER_JAMS"],
-    "magazines": [["9mm", ["armgunmag"]]],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["armgunmag"]
+      }
+    ],
     "armor_data": {
       "covers": ["ARM_EITHER"],
       "warmth": 10,
@@ -261,7 +301,15 @@
     "durability": 9,
     "built_in_mods": ["rifle_scope", "suppressor"],
     "flags": ["NEVER_JAMS"],
-    "magazines": [["9x39", ["vssmag"]]]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["vssmag"]
+      }
+    ]
   },
   {
     "id": "port_cannon",
@@ -403,7 +451,15 @@
     "ups_charges": 50,
     "reload": 100,
     "built_in_mods": ["rifle_scope", "muzzle_brake", "recoil_stock"],
-    "magazines": [["3006", ["egarandmag"]]],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": ["egarandmag"]
+      }
+    ],
     "flags": ["NEVER_JAMS"]
   },
   {
