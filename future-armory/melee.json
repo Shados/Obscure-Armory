@@ -89,7 +89,7 @@
       "target": "razor_sword",
       "msg": "Sword Mode activated."
     },
-    "flags": ["REACH_ATTACK", "REACH2", "WHIP"]
+    "flags": ["REACH_ATTACK", "WHIP"]
   },
   {
     "id": "boomerang",
